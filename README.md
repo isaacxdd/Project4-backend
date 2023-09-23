@@ -7,7 +7,7 @@ Car-go is a website that will help you store your car brands that you have and s
 </br>
 
 ## Link
-[**Github**](git@github.com:isaacxdd/Project4-backend.git)
+[**Github**](https://github.com/isaacxdd/Project4-backend#link)
 [**Deployment**](https://car-go-ekyq.onrender.com/car/)
 </br>
 
