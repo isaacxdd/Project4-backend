@@ -7,8 +7,8 @@ Car-go is a website that will help you store your car brands that you have and s
 </br>
 
 ## Link
-[**Github**](https://github.com/choisus08/flexi_shift_backend)
-[**Deployment**](https://flexi-shift-backend.onrender.com/shifts/)
+[**Github**](git@github.com:isaacxdd/Project4-backend.git)
+[**Deployment**](https://car-go-ekyq.onrender.com/car/)
 </br>
 
 ## Technologies Used
