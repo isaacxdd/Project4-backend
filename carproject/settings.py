@@ -49,7 +49,6 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "cars.apps.CarsConfig",
     "rest_framework",
-    "rest_framework",
     "corsheaders",
 ]
 
